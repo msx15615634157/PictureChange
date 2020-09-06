@@ -1,0 +1,1 @@
+ffmpeg -i src01.avi %d.jpg
